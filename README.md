@@ -52,7 +52,7 @@ A Streamlit web app for checking IPs, domains, and URLs against multiple threat 
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/threat-intel-checker.git
+git clone https://github.com/dsnow121/threat-intel-checker.git
 cd threat-intel-checker
 python3 -m venv venv
 source venv/bin/activate
